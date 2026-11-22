@@ -8,7 +8,7 @@ The dashboard provides an overview of sales performance, order trends, customer 
 
  Dashboard Preview
 
-Vrinda Store Sales Dashboard
+![Vrinda Store Sales Dashboard](dashboard_sc.png)
 
 Key Performance Indicators (KPIs)
 
